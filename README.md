@@ -1,2 +1,2 @@
 # LearnThroughTech
- a repository for all the projects on my youtube channel.
+A repository for all hobby projects.
